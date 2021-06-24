@@ -5,6 +5,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 0 20px;
 }
 .contact-section p{
     color: white;
