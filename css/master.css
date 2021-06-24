@@ -1,0 +1,10 @@
+
+@import "./setting/variables.css";
+@import "./components/button.css";
+
+@import "./layout/header.css";
+
+*{
+    margin: 0;
+    padding: 0;
+}

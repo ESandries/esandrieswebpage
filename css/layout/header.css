@@ -1,0 +1,26 @@
+.portafolio-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    margin: 0 auto;
+    height: 100px;
+}
+
+.nav-option{
+    display: flex;
+    align-items: center;
+}
+
+.portafolio-header ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.portafolio-header a{
+    text-decoration: none;
+    font: var(--headline5);
+    color: var(--color4);
+}
