@@ -3,6 +3,7 @@
 @import "./components/button.css";
 
 @import "./layout/header.css";
+@import "./layout/hero.css";
 
 *{
     margin: 0;

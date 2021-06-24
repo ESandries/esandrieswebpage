@@ -1,0 +1,29 @@
+.hero-section{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    padding: 0 20px;
+}
+.hero-section img{
+    width: 200px;
+    height: auto;
+}
+
+.hero-description {
+    max-width: 600px;
+}
+
+.hero-description h1{
+    font: var(--headline2);
+        color: var(--color4);
+}
+.hero-description .subtitle {
+    font: var(--headline4);
+    color: var(--color4);
+}
+.hero-description p{
+    font: var(--body1);
+        color: var(--color4);
+}
