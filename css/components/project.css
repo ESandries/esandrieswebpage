@@ -1,0 +1,39 @@
+.project{
+    background-color: var(--color3);
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.project:nth-child(even){
+    flex-direction: row-reverse;
+}
+
+.project-photo{
+    text-align: center;
+}
+
+.project-photo img{
+    text-align: center;
+width: 60%;
+}
+
+.project-description{
+    max-width: 600px;
+}
+
+.project-description h3{
+font: var(--headline4);
+}
+
+.project-description p{
+    font: var(--body1);
+}
+
+.project-description_buttons{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}

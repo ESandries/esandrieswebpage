@@ -1,0 +1,17 @@
+.contact-section{
+    height: 80vh;
+    background-color: var(--color4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact-section p{
+    color: white;
+    font: var(--headline3);
+}
+.contact-section a{
+    text-decoration: none;
+    color: white;
+    font: var(--headline3);
+}

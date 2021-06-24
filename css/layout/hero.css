@@ -1,6 +1,7 @@
 .hero-section{
     height: 90vh;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
     flex-direction: row-reverse;

@@ -1,9 +1,12 @@
 
 @import "./setting/variables.css";
 @import "./components/button.css";
+@import "./components/project.css";
 
 @import "./layout/header.css";
 @import "./layout/hero.css";
+@import "./layout/contact.css";
+@import "./layout/footer.css";
 
 *{
     margin: 0;
